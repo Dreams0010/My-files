@@ -7,3 +7,5 @@ Django
 Deep Learning
 
 Thanks
+
+Regards
