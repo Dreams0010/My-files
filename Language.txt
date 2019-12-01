@@ -3,3 +3,7 @@ Welcome to Ganesh git account
 Python
 Flask
 
+Django
+Deep Learning
+
+Thanks
