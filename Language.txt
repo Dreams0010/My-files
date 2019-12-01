@@ -4,7 +4,11 @@ Python
 Flask
 
 Django
-Deep Learning
+Deep Learning , Docker
+
+Jenkins
+kybernetes
+
 
 Thanks
 
